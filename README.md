@@ -18,8 +18,7 @@
 
 ### 📚 currently learning:  
 
-![](https://img.shields.io/badge/Model-Gan-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fd53ff)
-![](https://img.shields.io/badge/Model-LSTM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fd53ff)
+![](https://img.shields.io/badge/TOOLS-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fd53ff)
 ![](https://img.shields.io/badge/TOOLS-MPI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 
 #
