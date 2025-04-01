@@ -1,19 +1,19 @@
 # *Ciao~* 
 
- ⛩️ 放个博客:  https://zeta.future-world.net   
+ ⛩️ Blog:  https://zeta.future-world.net   
 
  <br/> 
  
-###  📝  2025 计划
+###  📝  2025 Plan
 - [ ] ~~🐟摸鱼~~
 - [ ] ~~💤睡大觉~~
-- [ ] 💡 弄个物联网ai管家
+- [ ] 💡 物联网agi
 - [ ] 📚 多看点书
 
 
  <br/> 
  
-## 🍚 饭碗
+## 🧰
 ###  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
